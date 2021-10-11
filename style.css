@@ -1,0 +1,17 @@
+
+body
+{
+    background-color: burlywood;
+}
+.heading
+{
+    width: 60%;
+    font-size: 28px;
+}
+#camera
+{
+    border: black;
+    border-style: dashed;
+    width: 300px;
+    height: 300px;
+}
